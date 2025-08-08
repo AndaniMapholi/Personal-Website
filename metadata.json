@@ -1,0 +1,9 @@
+{
+  "name": "Andani Mapholi | Portfolio",
+  "description": "A professional portfolio for Andani Mapholi, an IT Graduate, Network Management specialist, and aspiring IT Support & Cloud Professional.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
